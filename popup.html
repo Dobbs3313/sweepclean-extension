@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SweepClean</title>
+  <link rel="stylesheet" href="ui-base.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand">
+      <img src="icons/icon48.png" alt="SweepClean">
+      <div>
+        <div class="brand-title">SweepClean</div>
+        <div class="brand-sub">Zero-ad 1-click privacy cleaner</div>
+      </div>
+    </div>
+    <button class="tier-pill" id="tierPill">FREE</button>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab-btn active" data-tab="clean">Clean</button>
+    <button class="tab-btn" data-tab="protect">Protected</button>
+    <button class="tab-btn" data-tab="auto">Auto</button>
+    <button class="tab-btn" data-tab="pro">Pro</button>
+  </nav>
+
+  <main>
+    <section class="panel active" id="panel-clean">
+      <div class="stat-grid">
+        <div class="stat-box">
+          <div class="stat-val" id="cookieCount">—</div>
+          <div class="stat-lbl">Stored Cookies</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-val" id="protectedCount">0</div>
+          <div class="stat-lbl">Protected Logins</div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-title">Time Range</div>
+        <select id="rangeSelect">
+          <option value="900000">Last 15 minutes</option>
+          <option value="3600000">Last hour</option>
+          <option value="86400000">Last 24 hours</option>
+          <option value="604800000">Last 7 days</option>
+          <option value="2419200000">Last 4 weeks</option>
+          <option value="0">All time</option>
+        </select>
+      </div>
+
+      <div class="card">
+        <div class="card-title">Data to Sweep</div>
+        <div class="row"><span>Cached images & files</span><label class="switch"><input type="checkbox" data-dt="cache"><span class="slider"></span></label></div>
+        <div class="row"><span>Cookies (respects Protected list)</span><label class="switch"><input type="checkbox" data-dt="cookies"><span class="slider"></span></label></div>
+        <div class="row"><span>Browsing history</span><label class="switch"><input type="checkbox" data-dt="history"><span class="slider"></span></label></div>
+        <div class="row"><span>Download history</span><label class="switch"><input type="checkbox" data-dt="downloads"><span class="slider"></span></label></div>
+        <div class="row"><span>Site LocalStorage</span><label class="switch"><input type="checkbox" data-dt="localStorage"><span class="slider"></span></label></div>
+        <div class="row"><span>Autofill form data</span><label class="switch"><input type="checkbox" data-dt="formData"><span class="slider"></span></label></div>
+      </div>
+
+      <button class="btn btn-primary btn-block" id="sweepNowBtn" style="padding:10px;font-size:13px;">Sweep Selected Data Now</button>
+    </section>
+
+    <section class="panel" id="panel-protect">
+      <div class="card">
+        <div class="card-title">Protected Login Domains</div>
+        <div class="muted" style="margin-bottom:8px;">Cookies on these domains are preserved during sweeps so you never lose important sessions.</div>
+        <div class="row">
+          <input type="text" id="domainInput" placeholder="e.g. mail.google.com or slack.com">
+          <button class="btn btn-primary btn-sm" id="addDomainBtn">Protect</button>
+        </div>
+        <button class="btn btn-sm btn-block" id="protectCurrentBtn" style="margin-top:7px;">+ Protect Current Tab Domain</button>
+      </div>
+      <div class="list" id="protectedList"></div>
+    </section>
+
+    <section class="panel" id="panel-auto">
+      <div class="card">
+        <div class="card-title">Quick Profiles <span class="pro-tag">PRO</span></div>
+        <div class="row">
+          <button class="btn btn-sm" data-profile="dev" style="flex:1;">Dev Cache</button>
+          <button class="btn btn-sm" data-profile="deep" style="flex:1;">Deep Clean</button>
+          <button class="btn btn-sm" data-profile="work" style="flex:1;">Work Reset</button>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-title">Scheduled Auto-Sweep <span class="pro-tag">PRO</span></div>
+        <div class="row">
+          <span>Auto-clean interval</span>
+          <select id="scheduleSelect" style="width:140px;">
+            <option value="0">Off</option>
+            <option value="30">Every 30 min</option>
+            <option value="60">Every hour</option>
+            <option value="360">Every 6 hours</option>
+          </select>
+        </div>
+        <div class="row">
+          <span>Clean on browser startup</span>
+          <label class="switch"><input type="checkbox" id="startupToggle"><span class="slider"></span></label>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-title">Recent Sweep Audit Log</div>
+        <div class="list" id="logList" style="max-height:130px;"></div>
+      </div>
+    </section>
+
+    <section class="panel" id="panel-pro"></section>
+  </main>
+
+  <div class="toast" id="toast"></div>
+  <script type="module" src="popup.js"></script>
+</body>
+</html>
