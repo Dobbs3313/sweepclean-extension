@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Čistač Bez Oglasa",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Čistač Chrome predmemorije, povijesti i kolačića jednim klikom bez oglasa uz zaštićene domene za važne prijave.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

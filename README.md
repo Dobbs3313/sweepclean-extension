@@ -4,6 +4,10 @@
 
 A fast, privacy-first Chrome Manifest V3 extension built by **ARIS PARTY LLC** to outperform **Click&Clean** (`ghgabhipcejejjmhhchfonmamedcbeod`, 1M+ users, 4.4★).
 
+- **Product Page:** https://arisparty.org/extensions/sweepclean
+- **Privacy Policy:** https://arisparty.org/extensions/sweepclean/privacy
+- **Support & Setup:** https://arisparty.org/extensions/sweepclean/support (`support@arisparty.org`)
+
 ## Competitive Advantages
 - Replaces Click&Clean (1M users, abandoned since June 2024) with a fresh 2026 MV3 engine
 - 100% ad-free — eliminates Click&Clean's notorious popup spam and interstitial nags
@@ -41,4 +45,4 @@ A fast, privacy-first Chrome Manifest V3 extension built by **ARIS PARTY LLC** t
 ```bash
 node tests/verify.mjs .
 ```
-Outputs a store-ready archive at `dist/sweepclean-extension-v1.0.0.zip`.
+Outputs a store-ready archive with 56 `_locales` at `dist/sweepclean-extension-v1.0.0.zip`.

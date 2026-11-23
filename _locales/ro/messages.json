@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Curățitor Fără Reclame",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Curățare cu 1 clic fără reclame pentru cache, istoric și cookie-uri cu Domenii Protejate pentru autentificările cheie.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

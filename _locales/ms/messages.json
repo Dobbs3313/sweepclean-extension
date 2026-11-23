@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Pembersih Tanpa Iklan",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Pembersih cache, sejarah dan kuki Chrome 1-klik tanpa iklan dengan Domain Terlindung supaya kekal log masuk.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — پاک‌کننده بدون تبلیغ",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "پاک‌کننده یک‌کلیکی کش، تاریخچه و کوکی بدون تبلیغ با دامنه‌های محافظت‌شده برای حفظ ورود در سایت‌های مهم.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

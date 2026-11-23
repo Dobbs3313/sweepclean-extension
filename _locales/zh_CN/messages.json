@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — 无广告隐私清理器",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "零广告一键清理 Chrome 缓存、历史记录和 Cookie，支持受保护域名以保留重要网站登录状态。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Nettoyeur Sans Pub",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Nettoyeur en 1 clic sans pub du cache, historique et cookies avec Domaines Protégés pour garder vos sessions essentielles.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

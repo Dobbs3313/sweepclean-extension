@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Valiklis Be Reklamų",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Be reklamų 1 paspaudimu valykite Chrome podėlį, istoriją ir slapukus su apsaugotais domenais svarbiems prisijungimams.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

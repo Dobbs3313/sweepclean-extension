@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Pulitore Senza Pubblicità",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Pulitore senza pubblicità in 1 clic per cache, cronologia e cookie con Domini Protetti per restare connesso ai siti chiave.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

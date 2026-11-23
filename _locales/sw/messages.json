@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Kisafishaji Bila Matangazo",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Kisafishaji cha akiba, historia na vidakuzi vya Chrome kwa mbofyo 1 bila matangazo chenye Vikoa Vilivyolindwa.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

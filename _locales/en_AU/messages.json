@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Ad-Free Privacy Cleaner",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Zero-ad 1-click Chrome cache, history, and cookie cleaner with Protected Domains so you stay signed into key sites.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — منظف خصوصية بدون إعلانات",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "منظف ذاكرة التخزين المؤقت والسجل وملفات تعريف الارتباط بنقرة واحدة بدون إعلانات مع النطاقات المحمية.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

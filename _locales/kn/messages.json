@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — ಜಾಹೀರಾತು-ರಹಿತ ಕ್ಲೀನರ್",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ಸುರಕ್ಷಿತ ಡೊಮೇನ್‌ಗಳೊಂದಿಗೆ 1-ಕ್ಲಿಕ್ Chrome ಕ್ಯಾಶ್, ಇತಿಹಾಸ ಮತ್ತು ಕುಕೀ ಕ್ಲೀನರ್ — ಪ್ರಮುಖ ಲಾಗಿನ್‌ಗಳು ಸುರಕ್ಷಿತವಾಗಿರುತ್ತವೆ.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

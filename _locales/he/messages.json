@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — מנקה פרטיות ללא פרסומות",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "מנקה מטמון, היסטוריה ועוגיות בקליק אחד וללא פרסומות עם דומיינים מוגנים לשמירת התחברויות חשובות.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

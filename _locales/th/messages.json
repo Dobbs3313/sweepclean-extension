@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — ล้างแคชไร้โฆษณา",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ล้างแคช ประวัติ และคุกกี้ Chrome ในคลิกเดียวแบบไร้โฆษณา พร้อมโดเมนที่ปกป้องเพื่อคงการเข้าสู่ระบบสำคัญ",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

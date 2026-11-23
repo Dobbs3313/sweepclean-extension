@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Reklámmentes Tisztító",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Reklámmentes 1-kattintásos Chrome gyorsítótár-, előzmény- és sütitisztító Védett Domainekkel a fontos belépésekhez.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

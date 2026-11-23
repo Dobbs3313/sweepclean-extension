@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — പരസ്യരഹിത പ്രൈവസി ക്ലീനർ",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "പ്രധാന ലോഗിനുകൾ നഷ്ടമാകാതെ കാക്കുന്ന പ്രൊട്ടക്റ്റഡ് ഡൊമെയ്നുകളോടുകൂടിയ പരസ്യരഹിത 1-ക്ലിക്ക് Chrome ക്ലീനർ.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

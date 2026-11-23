@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — 広告なしプライバシー清掃",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "広告ゼロの1クリックでキャッシュ・履歴・Cookieを削除。保護ドメイン機能で大切なログイン状態はそのまま維持。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

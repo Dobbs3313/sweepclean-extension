@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Ad-Free Privacy Cleaner",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Walang-ads na 1-click Chrome cache, history, at cookie cleaner na may Protected Domains para manatiling naka-login.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

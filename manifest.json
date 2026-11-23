@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "SweepClean — Ad-Free Privacy Cleaner",
-  "short_name": "SweepClean",
-  "description": "Zero-ad 1-click Chrome cache, history, and cookie cleaner with Protected Domains so you stay logged into key sites.",
+  "name": "__MSG_appName__",
+  "short_name": "__MSG_appShortName__",
+  "description": "__MSG_appDescription__",
   "version": "1.0.0",
   "icons": {
     "16": "icons/icon16.png",
@@ -11,7 +11,7 @@
     "128": "icons/icon128.png"
   },
   "action": {
-    "default_title": "SweepClean",
+    "default_title": "__MSG_appShortName__",
     "default_popup": "popup.html"
   },
   "background": {
@@ -28,5 +28,6 @@
   "host_permissions": [
     "http://*/*",
     "https://*/*"
-  ]
+  ],
+  "default_locale": "en"
 }

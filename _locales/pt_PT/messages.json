@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Limpador Sem Anúncios",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Limpador de cache, histórico e cookies em 1 clique, sem anúncios, com Domínios Protegidos para manter sessões ativas.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

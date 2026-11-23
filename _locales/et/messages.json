@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Reklaamivaba Puhastaja",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Reklaamivaba 1-klõpsu Chrome'i vahemälu, ajaloo ja küpsiste puhastaja kaitstud domeenidega oluliste sisselogimiste jaoks.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

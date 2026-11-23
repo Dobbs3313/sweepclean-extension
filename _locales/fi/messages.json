@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Mainokseton Puhdistaja",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Mainokseton yhden napsautuksen Chrome-välimuistin, historian ja evästeiden puhdistaja suojatuilla verkkotunnuksilla.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

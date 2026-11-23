@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Καθαριστής Χωρίς Διαφημίσεις",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Καθαριστής cache, ιστορικού & cookies με 1 κλικ, χωρίς διαφημίσεις, με Προστατευμένα Domains για να μένετε συνδεδεμένοι.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

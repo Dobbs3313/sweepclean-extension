@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — বিজ্ঞাপন-মুক্ত ক্লিনার",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "সুরক্ষিত ডোমেইনসহ বিজ্ঞাপনহীন ১-ক্লিক Chrome ক্যাশ, ইতিহাস ও কুকি ক্লিনার যাতে জরুরি লগইন অটুট থাকে।",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

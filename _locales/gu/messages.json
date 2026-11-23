@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — જાહેરાત-મુક્ત ક્લીનર",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "સુરક્ષિત ડોમેન્સ સાથે જાહેરાત-રહિત 1-ક્લિક Chrome કેશ, ઇતિહાસ અને કૂકી ક્લીનર જેથી મહત્વના લોગિન જળવાઈ રહે.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

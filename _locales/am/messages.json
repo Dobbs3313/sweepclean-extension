@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — ያለ ማስታወቂያ ማጽጃ",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ዋና መግቢያዎችን የሚጠብቅ Protected Domains ያለው፣ ያለ ማስታወቂያ በ1 ጠቅታ Chrome ካሽ፣ ታሪክ እና ኩኪ ማጽጃ።",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

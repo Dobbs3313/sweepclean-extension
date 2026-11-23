@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Reklamsız Gizlilik Aracı",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Önemli oturumlarınızı Korunan Alan Adları ile koruyan, reklamsız tek tık Chrome önbellek, geçmiş ve çerez temizleyici.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Czyściciel Bez Reklam",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Bezreklamowy czyściciel pamięci podręcznej, historii i ciasteczek z Chronionymi Domenami zachowującymi ważne sesje.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

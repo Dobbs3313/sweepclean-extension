@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Advertentievrije Cleaner",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Reclamevrije 1-klik-cleaner voor cache, geschiedenis en cookies met Beschermde Domeinen zodat belangrijke logins blijven.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

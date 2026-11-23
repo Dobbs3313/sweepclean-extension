@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Netejador Sense Anuncis",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Netejador en 1 clic sense anuncis de memòria cau, historial i galetes amb Dominis Protegits per mantenir sessions clau.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

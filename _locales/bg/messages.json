@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Почистване без реклами",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Почистване без реклами с 1 клик на кеш, история и бисквитки със Защитени домейни за запазване на важни профили.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

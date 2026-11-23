@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Tīrītājs Bez Reklāmām",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "1-klikšķa kešatmiņas, vēstures un sīkfailu tīrītājs bez reklāmām ar aizsargātiem domēniem svarīgu sesiju saglabāšanai.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

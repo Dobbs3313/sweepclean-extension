@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — விளம்பரமற்ற சுத்திகரிப்பான்",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "முக்கிய உள்நுழைவுகளைப் பாதுகாக்கும் டொமைன்களுடன் விளம்பரமற்ற 1-கிளிக் Chrome தற்காலிக சேமிப்பு மற்றும் குக்கீ சுத்திகரிப்பான்.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

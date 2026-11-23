@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — ప్రకటనల్లేని ప్రైవసీ క్లీనర్",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "కీలక లాగిన్‌లను కాపాడే ప్రొటెక్టెడ్ డొమైన్‌లతో ప్రకటనల్లేని 1-క్లిక్ Chrome క్యాష్, హిస్టరీ మరియు కుకీ క్లీనర్.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

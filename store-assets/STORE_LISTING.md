@@ -3,8 +3,11 @@
 - **Title:** SweepClean — Zero-Ad 1-Click Privacy Cleaner 
 - **Category:** Make Chrome Yours -> Functionality & UI
 - **Version:** 1.0.0
+- **Locales:** 56 Chrome Web Store languages (`_locales/`)
 - **Pricing:** Free with optional Stripe Pro upgrade ($2.99/mo · $19.99/yr · $29.99 Lifetime)
-- **Privacy Policy URL:** `https://github.com/Dobbs3313/sweepclean-extension/blob/main/store-assets/PRIVACY_POLICY.md`
+- **Homepage URL:** `https://arisparty.org/extensions/sweepclean`
+- **Support URL:** `https://arisparty.org/extensions/sweepclean/support`
+- **Privacy Policy URL:** `https://arisparty.org/extensions/sweepclean/privacy`
 
 ## Short Description (<= 132 chars)
 Zero-Ad 1-Click Privacy Cleaner with Protected Login Domains. Fast, privacy-first Manifest V3 utility with zero ads or telemetry.
@@ -24,6 +27,11 @@ Zero-Ad 1-Click Privacy Cleaner with Protected Login Domains. Fast, privacy-firs
 - Custom Cleaning Profiles (Quick Dev Cache, Deep Privacy, Work Reset)
 - Scheduled automatic interval cleaning & clean-on-startup
 - Cleaning audit log & JSON settings export/import
+
+### Privacy & Support
+- Product & docs: https://arisparty.org/extensions/sweepclean
+- Privacy policy: https://arisparty.org/extensions/sweepclean/privacy
+- Support & setup: https://arisparty.org/extensions/sweepclean/support (support@arisparty.org)
 
 ### Stripe Live Checkout Links
 - Monthly ($2.99/mo): https://buy.stripe.com/bJe3cv1x52hz1PN46ug3603

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Reklamefri Privatlivsrenser",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Reklamefri 1-klik-renser af Chrome-cache, historik og cookies med beskyttede domæner, så vigtige logins bevares.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

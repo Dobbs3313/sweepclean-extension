@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — 無廣告隱私清理器",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "零廣告一鍵清理 Chrome 快取、瀏覽紀錄與 Cookie，並透過受保護網域保留重要網站登入狀態。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

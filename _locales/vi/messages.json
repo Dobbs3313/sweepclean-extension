@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "SweepClean — Dọn Dẹp Không Quảng Cáo",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "SweepClean",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Xóa bộ nhớ đệm, lịch sử và cookie Chrome 1 chạm không quảng cáo với Tên Miền Bảo Vệ giữ đăng nhập quan trọng.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}
